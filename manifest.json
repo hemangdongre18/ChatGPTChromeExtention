@@ -1,0 +1,11 @@
+{
+  "manifest_version" : 3,
+  "name": "chatGPT_Extention_by_Hemang",
+  "version": "1.0",
+  "description": "This is my first chatGPT extention and this is fist trial.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "chatGPTIcon.png"
+  },
+  "permissions" : []
+}
